@@ -15,6 +15,7 @@
 많이 부족하지만 확고함을 가지고 "꾸준히" 노력하겠습니다.
 
 <h4>[관심 사항]</h4>
+
 1. 문제 해결 능력 (알고리즘 문제 풀이) 
 2. 협업 능력 (Jira, Notion, GitHub)
 3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
