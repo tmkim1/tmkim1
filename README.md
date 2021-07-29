@@ -17,9 +17,9 @@
 
 <h4>[관심 사항]</h4>
 
-1. 문제 해결 능력 (알고리즘 문제 풀이) 
-2. 협업 능력 (Jira, Notion, GitHub)
-3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
+    1. 문제 해결 능력 (알고리즘 문제 풀이) 
+    2. 협업 능력 (Jira, Notion, GitHub)
+    3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
 
 <h4>[경력 사항]</h4>
 
