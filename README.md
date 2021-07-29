@@ -24,11 +24,8 @@
 윕스 (2018.09 ~ 2019.04)
 MNL솔루션 (2018.02 ~ 2018.08
 
-[보유 자격증]
-1. 정보처리기사
-2. SQLD
-3. 리눅스마스터 2급 
-4. 정보기기운용기능사 
+<h4>[보유 자격증]</h4>
+정보처리기사, SQLD, 리눅스마스터 2급, 정보기기운용기능사 
 
 <!--
 **tmkim1/tmkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
