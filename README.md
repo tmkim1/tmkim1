@@ -17,7 +17,7 @@
 
 <h4>[관심 사항]</h4>
 
-    1. 문제 해결 능력 [알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
+    1. 문제 해결 능력 [알고리즘 문제 풀이][문자 출연 횟수 구하기](CodingTest/src/_J01/Main.java)
     2. 협업 능력 (Jira, Notion, GitHub)
     3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
 
