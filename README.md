@@ -19,11 +19,7 @@
 
     1. 문제 해결 능력 (알고리즘 문제 풀이, 자료 구조)
     2. 협업 능력 (Jira, Notion, GitHub)
-    3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
-    
-[1. 알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
-[2. MSA, Spring Cloud](https://maroon-machine-cb6.notion.site/Spring-Cloud-Study-c0d824ea76cf4247beadf4341652b88c)
-[3. REST API](https://github.com/tmkim1/restful-web-service) 
+    3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud
        
 <h4>[경력 사항]</h4>
 
@@ -34,6 +30,12 @@
 <h4>[보유 자격증]</h4>
 
     정보처리기사, SQLD, 리눅스마스터 2급, 정보기기운용기능사 
+
+[1. 알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
+
+[2. MSA, Spring Cloud](https://maroon-machine-cb6.notion.site/Spring-Cloud-Study-c0d824ea76cf4247beadf4341652b88c)
+
+[3. REST API](https://github.com/tmkim1/restful-web-service) 
 
 <!--
 **tmkim1/tmkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
