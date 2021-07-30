@@ -17,10 +17,14 @@
 
 <h4>[관심 사항]</h4>
 
-    1. 문제 해결 능력 [알고리즘 문제 풀이][문자 출연 횟수 구하기](CodingTest/src/_J01/Main.java)
+    1. 문제 해결 능력 (알고리즘 문제 풀이, 자료 구조)
     2. 협업 능력 (Jira, Notion, GitHub)
     3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud)
-
+    
+[1. 알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
+[2. MSA, Spring Cloud](https://maroon-machine-cb6.notion.site/Spring-Cloud-Study-c0d824ea76cf4247beadf4341652b88c)
+[3. REST API](https://github.com/tmkim1/restful-web-service) 
+       
 <h4>[경력 사항]</h4>
 
     성신양회 (2019.04 ~ 2021.05) 
