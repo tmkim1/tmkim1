@@ -41,6 +41,8 @@
 
 [3. REST API](https://github.com/tmkim1/restful-web-service) 
 
+[4. Spring Boot, JPA](https://github.com/tmkim1/jpashop)
+
 <!--
 **tmkim1/tmkim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
