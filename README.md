@@ -20,8 +20,8 @@
     1. 문제 해결 능력 (알고리즘 문제 풀이, 자료 구조)
     2. 협업 능력 (Jira, Notion, GitHub)
     3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud, Kafka)
-    4. 테스트 주도 개발 
-    5. JPA
+    4. JPA
+    5. Unit Test
        
 <h4>[경력 사항]</h4>
 
