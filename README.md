@@ -37,7 +37,7 @@
 
 [1. 알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
 
-[2. MSA, Spring Cloud, KAKFA](https://maroon-machine-cb6.notion.site/Spring-Cloud-Study-c0d824ea76cf4247beadf4341652b88c)
+[2. MSA, Spring Cloud, KAKFA](https://maroon-machine-cb6.notion.site/Spring-Cloud-Study-9d445dbd1c744667aa0a2e65c5619783)
 
 [3. REST API](https://github.com/tmkim1/restful-web-service) 
 
