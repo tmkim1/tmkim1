@@ -1,24 +1,6 @@
 ### Hi there 👋
 
-
-    안녕하세요 ^--^
-
-    축구와 식물을 좋아하는 개발자 입니다.
-
-<h4>[관심 사항]</h4>
-
-    1. 문제 해결 능력 (알고리즘 문제 풀이, 자료 구조)
-    2. 협업 능력 (Jira, Notion, GitHub)
-    3. 필드 기술 (Spring, REST API, MSA 환경 구축, Spring Cloud, Kafka)
-    4. JPA
-    5. Unit Test
-    6. Android 
-
-<h4>[보유 자격증]</h4>
-
-    정보처리기사, SQLD, 리눅스마스터 2급, 정보기기운용기능사 
-
-<h4>[관련 링크]</h4>
+<h4>[링크]</h4>
 
 [1. 알고리즘 문제 풀이](https://github.com/tmkim1/CodingTest)
 
